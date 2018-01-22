@@ -1,0 +1,55 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: rgb(81, 161, 161);
+    
+}
+
+.jumbotron{
+    background-color:rgb(211, 206, 206);
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#chatDisplay {
+    position: relative;
+    text-align: center;
+	width: 600px;
+	height: 180px;
+    border-radius: 10px;
+	padding: 1px;
+	background: rgb(211, 172, 172);
+	border: 1px solid black;
+}
+
+#chat-input{
+    width: 70%;
+    margin-left: 15px;
+}
+
+#name-form{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#name-input{
+    border-radius: 5px;
+    width: 200px;
+    height: 35px;
+}
+#chat-input{
+    float: left;
+    border-radius: 10px;
+}
+#chat-send{
+    float: left;
+    width: 150px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.col-lg-8{
+    padding-left: 0;
+}
+
+
